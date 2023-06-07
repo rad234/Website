@@ -1,0 +1,69 @@
+.taskbar {
+    background-color: #7289da;
+    border-radius: 2px;
+    border: none;
+    color: #fff;
+    height: 40px;
+    width: 120px;
+    margin-left: 220px;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.taskbar:hover {
+    cursor: pointer;
+}
+
+body {
+    background-color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bar-for-tasks {
+    background-color: #7289da;
+}
+
+.produs {
+    margin-top: 3%;
+    border:  3px;
+    border-style: solid;
+    display: inline-block;
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+
+.add-cos {
+    background-color: #7289da;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    margin: 2%;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+section {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+div {
+    width: 450px;
+    background-color: #fff;
+}
+
+.titlu {
+    text-align: center;
+}
+
+.add-cos:hover {
+    cursor: pointer;
+}

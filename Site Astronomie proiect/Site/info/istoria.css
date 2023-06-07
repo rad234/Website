@@ -1,0 +1,111 @@
+.salut {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+#inapoi {
+    background-color: #7289da;
+    border-radius: 5px;
+    border: none;
+    color: #1e2124;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+}
+
+#inapoi:hover {
+    cursor: pointer;
+}
+
+.articol-unu {
+    border-top: 5px;
+    border-bottom: 5px;
+    border: #424549;
+}
+
+.titlu-istorie {
+    font-size: 50px;
+}
+
+.subtitlu-istorie {
+    font-size: 30px;
+}
+
+.marcheaza-citit-unu, .marcheaza-citit-doi, .marcheaza-citit-trei, .vezi-poze-articol-unu, .vezi-poze-articol-doi, .vezi-poze-articol-trei {
+    height: 40px;
+    width: 175px;
+    border: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: darkblue;
+    margin-top: 3%;
+    font-size: 20px;
+    margin-bottom: 4%;
+}
+
+#status-unu, #status-doi, #status-trei {
+    font-size: 40px;
+}
+
+.marcheaza-citit-unu:hover, .marcheaza-citit-doi:hover, .marcheaza-citit-trei:hover, .vezi-poze-articol-unu:hover, .vezi-poze-articol-doi:hover, .vezi-poze-articol-trei:hover {
+    cursor: pointer;
+}
+
+body {
+    background-color: #1e2124;
+    height: 900px;
+    width: 1890px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.articol-unu {
+    text-align: left, justify;
+    border-bottom-color: white;
+    border-width: 4px;
+}
+
+.articol-doi {
+    text-align: left, justify;
+    border-bottom-color: white;
+    border-width: 4px;
+}
+
+h2 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h3 {
+    color: blue;
+}
+
+a:link {
+    color: greenyellow;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+a:hover {
+    color: greenyellow;
+    cursor: pointer;
+}
+
+a:active {
+    color:greenyellow;
+}
+
+.titlu-articol-unu {
+    font-size: 50px;
+}
+
+.titlu-articol-doi {
+    font-size: 50px;
+}

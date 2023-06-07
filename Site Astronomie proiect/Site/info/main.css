@@ -1,0 +1,49 @@
+.titlu-principal {
+    padding-left: 16%;
+    padding-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    display: inline-block;
+}
+
+.subtitlu-principal {
+    padding-left: 605px;
+    padding-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+body {
+    background-color: #1e2124;
+}
+
+.insigna-rosa {
+    padding-top: 5%;
+    padding-left: 5%;
+    display: inline-block;
+}
+
+.istoria, .rosa, .noi, .magazin {
+    height: 80px;
+    width: 350px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #7289da;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-size: 40px;
+    margin-left: 104px;
+    border: none;
+} 
+
+.istoria:hover, .rosa:hover, .noi:hover, .magazin:hover {
+    cursor: pointer;
+    background-color: gainsboro;
+}
+
+.istoria:active, .rosa:active, .noi:active, .magazin:active {
+    background-color: lightblue;
+    cursor: grab;
+}
